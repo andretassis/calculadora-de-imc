@@ -23,8 +23,8 @@
 
 .container {
     position: absolute;
-    top: 45%; /* Ajuste conforme necessário */
-    left: 45%; /* Ajuste conforme necessário */
+    top: 45%; 
+    left: 45%;
     transform: translate(-50%, -50%);
     width: 66%;
     display: flex;
@@ -89,6 +89,52 @@ span {
     font-size: 12px;
 }
 
+.container__result {
+    margin-top: 320px;
+    padding: 25px;
+}
+
+.titulo__secao {
+    text-align: center;
+    padding: 5px;
+}
+
+.diagnostico__titulo {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formulario input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 70%;
+    border-radius: 10px;
+    border: 1px solid #919ead
+
+}
+
+.formulario button {
+    margin: 10px 0 40px 0;
+    padding: 10px;
+    width: 60%;
+    border-radius: 15px;
+    background-color: #4D73FC;
+    color: #ffffff;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+.formulario button:hover {
+    background-color: #9baff9;
+}
 @media screen and (min-width: 730px) {
     .dados {
         display: flex;
