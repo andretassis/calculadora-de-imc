@@ -69,6 +69,19 @@
     border-radius: 10px;
 }
 
+.erro {
+    color: red;
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+.certo {
+    color: red;
+    font-size: 12px;
+    margin-left: 15px;
+    display: none;
+}
+
 span {
     font-size: 18px;
     color: #4D73FC;
