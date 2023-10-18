@@ -18,4 +18,4 @@ O projeto conta com responsividade para mobile e desktop.
 
 ## Deploy
 
-Link do deploy: https://lp-arquitetura-dnc.netlify.app/
+Link do deploy: https://at-calculadora-de-imc.netlify.app/
