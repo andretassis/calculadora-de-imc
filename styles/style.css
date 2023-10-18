@@ -102,12 +102,9 @@ span {
     font-size: 12px;
 }
 
-.container__result {
+.titulo__secao {
     margin-top: 320px;
     padding: 25px;
-}
-
-.titulo__secao {
     text-align: center;
     padding: 5px;
 }
@@ -148,6 +145,7 @@ span {
 .formulario button:hover {
     background-color: #9baff9;
 }
+
 @media screen and (min-width: 730px) {
     .dados {
         display: flex;
@@ -162,22 +160,3 @@ span {
         align-items: center;
     }
 }
-
-
-/* PRECISO REFAZER ESSA PARTE  */
-/* @media screen and (min-width: 1300px) {
-    body {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        background-image: linear-gradient(to right, #ffffff, #f6f6fc, #eaedfa, #dde5f8, #cddef5);
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
-    }
-
-    .container {
-        margin-top: 50px;
-        position: relative;
-        top: 50%;
-        left: 30%;
-    } */
-/* } */
