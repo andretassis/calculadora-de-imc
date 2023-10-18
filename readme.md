@@ -12,9 +12,9 @@ O projeto conta com responsividade para mobile e desktop.
 
 ## Screenshots
 
-![Mobile](imc-mobile.png)
-![Mobile2](imc-mobile2.png)
-![Desktop](imc-desktop.png)
+![Mobile](screenshots/imc-mobile.png)
+![Mobile2](screenshots/imc-mobile2.png)
+![Desktop](screenshots/imc-desktop.png)
 
 ## Deploy
 
